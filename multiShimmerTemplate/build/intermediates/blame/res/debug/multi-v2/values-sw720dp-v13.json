@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shaki\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\e75112270bd1cdef94704d0a01f3a4d3\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "130,199",
+                        "endColumns": "68,68",
+                        "endOffsets": "194,263"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\src\\main\\res\\values-sw720dp\\textDimension.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "130,92,55",
+                        "endColumns": "36,37,36",
+                        "endOffsets": "162,125,87"
+                    },
+                    "to": {
+                        "startLines": "2,3,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,92,268",
+                        "endColumns": "36,37,36",
+                        "endOffsets": "87,125,300"
+                    }
+                }
+            ]
+        }
+    ]
+}

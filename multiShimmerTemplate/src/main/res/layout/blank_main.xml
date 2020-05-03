@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/location"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CS890EP\nInternet of Things\nSummer2018\nUniversity of Regina\n\nGroup members -\nShakib Hossain (200326938)\nZayeed A. Chowdhury (200367369)\nAnup Benjamin Gomes (200388845)\nImran Khan (200349343)\n\nThis android application is built on shimmer's Android/Java API. It uses Kinematics, EMG and ECG shimmer sensors to collect physiological data and display outputs accordingly. \n\nDATA -"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textViewDataReceived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Data Received"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/getLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Location" />
+
+    <TextView
+        android:id="@+id/showLocation"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:text="Location" />
+
+</LinearLayout>

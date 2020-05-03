@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\src\\main\\res\\values-mdpi\\textDimension.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "129,91,55",
+                        "endColumns": "36,37,35",
+                        "endOffsets": "161,124,86"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,92,130",
+                        "endColumns": "36,37,35",
+                        "endOffsets": "87,125,161"
+                    }
+                }
+            ]
+        }
+    ]
+}

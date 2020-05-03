@@ -1,0 +1,7 @@
+#Tue Aug 14 12:12:10 CST 2018
+base.0=C\:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\shaki\\OneDrive\\Desktop\\26-07-18\\MultiShimmerTemplate\\multiShimmerTemplate\\build\\intermediates\\transforms\\dexMerger\\debug\\0
